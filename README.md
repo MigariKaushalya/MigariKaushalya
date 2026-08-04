@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=Software+Developer;Python+%7C+Java+Programmer;Data+Science+%26+Machine+Learning+Learner;Web+Development+Enthusiast;Problem+Solver+%7C+Creative+Thinker" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F72585&center=true&vCenter=true&width=800&lines=Software+Developer+%F0%9F%90%BB%E2%9C%A8;Python+%7C+Java+Programmer+%F0%9F%92%BB%F0%9F%8C%B8;Data+Science+%26+ML+Explorer+%F0%9F%93%8A%F0%9F%A7%A0;Web+Dev+Enthusiast+%F0%9F%8C%90%F0%9F%8E%A8;Problem+Solver+%7C+Creative+Thinker+%F0%9F%92%A1%F0%9F%A7%B8" />
 </p>
 
 <p align="center">
