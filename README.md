@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruchika Upuldeniya</h1>
+<h1 align="center">Hi 👋, I'm Migari Kaushalya</h1>
 
 <h3 align="center">
 💻 ICT Undergraduate | 🚀 Software Developer | 📊 Data Science & AI Enthusiast
@@ -48,7 +48,7 @@ I also have experience in **graphic design, banking operations, and technical dr
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:ruchikaupuldeniya14@gmail.com">
+<a href="mailto:migarikawshalya@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
