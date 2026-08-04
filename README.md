@@ -36,7 +36,7 @@ I also have experience in **graphic design, banking operations, and technical dr
 - 👯 I’m looking to collaborate on **Flask, Python, and Data Science projects**
 - 🤝 I’m looking for help with **AI, system design, and cloud-based development**
 - 💬 Ask me about **Python, Java, Web Development, and Data Science basics**
-- 📫 Reach me at **ruchikaupuldeniya14@gmail.com**
+- 📫 Reach me at **migarikawshalya@gmail.com**
 - ⚡ Fun fact: I enjoy turning complex problems into simple, creative solutions
 
 ---
@@ -44,7 +44,7 @@ I also have experience in **graphic design, banking operations, and technical dr
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/ruchika h upuldeniya" target="blank">
+<a href="https://linkedin.com/in/Migari Kaushalya" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
@@ -52,7 +52,7 @@ I also have experience in **graphic design, banking operations, and technical dr
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="https://ruchikaupuldeniya.github.io/RuchuikaPortfolio/">
+<a href="https://MigariKaushalya.github.io/RuchuikaPortfolio/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome" />
 </a>
 </p>
