@@ -3,20 +3,17 @@
 <h3 align="center">
 💻 ICT Undergraduate | 🚀 Software Developer | 📊 Data Science & AI Enthusiast
 </h3>
-<p align="center">
-
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600" />
-
-</p>  
-
-
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F72585&center=true&vCenter=true&width=800&lines=Software+Developer+%F0%9F%90%BB%E2%9C%A8;Python+%7C+Java+Programmer+%F0%9F%92%BB%F0%9F%8C%B8;Data+Science+%26+ML+Explorer+%F0%9F%93%8A%F0%9F%A7%A0;Web+Dev+Enthusiast+%F0%9F%8C%90%F0%9F%8E%A8;Problem+Solver+%7C+Creative+Thinker+%F0%9F%92%A1%F0%9F%A7%B8" />
+  <img src="https://cdn.vectorstock.com/i/500p/16/38/smiling-female-coder-vector-61181638.jpg" width="500" alt="Female Programmer"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruchikaupuldeniya&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F72585&center=true&vCenter=true&width=800&lines=Software+Developer+🐻✨;Python+%7C+Java+Programmer+💻🌸;Data+Science+%26+ML+Explorer+📊🧠;Web+Dev+Enthusiast+🌐🎨;Problem+Solver+%7C+Creative+Thinker+💡🧩" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MigariKaushalya&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -35,20 +32,21 @@ I also have experience in **graphic design, banking operations, and technical dr
 
 ---
 
-- 🔭 I’m currently working on **Python, Java, and Data Analysis projects**
-- 🌱 I’m currently learning **Data Science, Machine Learning, and Web Development**
-- 👯 I’m looking to collaborate on **Flask, Python, and Data Science projects**
-- 🤝 I’m looking for help with **AI, system design, and cloud-based development**
-- 💬 Ask me about **Python, Java, Web Development, and Data Science basics**
-- 📫 Reach me at **migarikawshalya@gmail.com**
-- ⚡ Fun fact: I enjoy turning complex problems into simple, creative solutions
+* 🔭 I’m currently working on **Python, Java, and Data Analysis projects**
+* 🌱 I’m currently learning **Data Science, Machine Learning, and Web Development**
+* 👯 I’m looking to collaborate on **Flask, Python, and Data Science projects**
+* 🤝 I’m looking for help with **AI, system design, and cloud-based development**
+* 💬 Ask me about **Python, Java, Web Development, and Data Science basics**
+* 📫 Reach me at **[migarikawshalya@gmail.com](mailto:migarikawshalya@gmail.com)**
+* ⚡ Fun fact: I enjoy turning complex problems into simple, creative solutions
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/Migari Kaushalya" target="blank">
+
+<a href="https://linkedin.com/in/Migari-Kaushalya" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
@@ -59,6 +57,7 @@ I also have experience in **graphic design, banking operations, and technical dr
 <a href="https://MigariKaushalya.github.io/RuchuikaPortfolio/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome" />
 </a>
+
 </p>
 
 ---
@@ -83,12 +82,21 @@ I also have experience in **graphic design, banking operations, and technical dr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruchikaupuldeniya&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MigariKaushalya&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruchikaupuldeniya&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MigariKaushalya&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchikaupuldeniya&layout=compac
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigariKaushalya&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ✨ Thanks for visiting my profile!
+
+<p align="center">
+  <b>Let's build something amazing together! 🚀</b>
+</p>
