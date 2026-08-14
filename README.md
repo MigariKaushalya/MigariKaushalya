@@ -4,19 +4,45 @@
 💻 ICT Undergraduate | 🚀 Software Developer | 📊 Data Science & AI Enthusiast
 </h3>
 
+<!-- ✨ Animated Girl Developer Section -->
+
 <p align="center">
+
   <img 
-    src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/gifs/work.gif"
-    width="550"
-    alt="Girl Developer Coding"
+    src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
+    width="70"
+    alt="Sparkle Animation"
   />
+
+  <img 
+    src="https://miro.medium.com/v2/resize%3Afit%3A1400/1%2ATfZ2gjvFjZ6LYXKce-tfWQ.png"
+    width="520"
+    alt="Female Software Developer"
+  />
+
+  <img 
+    src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
+    width="70"
+    alt="Sparkle Animation"
+  />
+
 </p>
 
 <p align="center">
+
+  ✨ 💻 ✨ &nbsp;&nbsp;
+  <b>Code • Create • Learn • Grow</b>
+  &nbsp;&nbsp; ✨ 💻 ✨
+
+</p>
+
+<p align="center">
+
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F72585&center=true&vCenter=true&width=800&lines=Software+Developer+%F0%9F%92%BB%E2%9C%A8;Python+%7C+Java+Programmer+%F0%9F%90%8D%E2%98%95;Data+Science+%26+ML+Explorer+%F0%9F%93%8A%F0%9F%A7%A0;Web+Development+Enthusiast+%F0%9F%8C%90%F0%9F%8E%A8;Creative+Problem+Solver+%F0%9F%92%A1%F0%9F%A7%A9"
     alt="Typing SVG"
   />
+
 </p>
 
 <p align="center">
@@ -65,12 +91,16 @@ I also have experience in **graphic design, banking operations, and technical dr
   />
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:migarikawshalya@gmail.com">
   <img 
     src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
   />
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://MigariKaushalya.github.io/RuchuikaPortfolio/">
   <img 
@@ -129,27 +159,33 @@ I also have experience in **graphic design, banking operations, and technical dr
 ## 📊 GitHub Stats
 
 <p align="center">
+
   <img 
     src="https://github-readme-stats.vercel.app/api?username=MigariKaushalya&show_icons=true&theme=tokyonight&hide_border=true"
     width="480"
     alt="GitHub Stats"
   />
+
 </p>
 
 <p align="center">
+
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=MigariKaushalya&theme=tokyonight&hide_border=true"
     width="480"
     alt="GitHub Streak"
   />
+
 </p>
 
 <p align="center">
+
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigariKaushalya&layout=compact&theme=tokyonight&hide_border=true"
     width="380"
     alt="Top Languages"
   />
+
 </p>
 
 ---
@@ -157,9 +193,27 @@ I also have experience in **graphic design, banking operations, and technical dr
 ## 💡 My Developer Mindset
 
 <p align="center">
-  <i>
-    "Learn continuously. Build creatively. Solve intelligently."
-  </i>
+
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=Learn+Continuously+%F0%9F%93%9A;Build+Creatively+%F0%9F%92%BB;Solve+Intelligently+%F0%9F%A7%A0;Keep+Growing+%F0%9F%8C%B8"
+    alt="Developer Mindset"
+  />
+
+</p>
+
+---
+
+## 🎯 Current Focus
+
+<p align="center">
+
+| 💻 Development | 📊 Data & AI | 🎨 Creative |
+|:---:|:---:|:---:|
+| Python | Data Science | Graphic Design |
+| Java | Machine Learning | UI/UX |
+| Web Development | AI | Creative Problem Solving |
+| Flask | Data Analysis | Digital Design |
+
 </p>
 
 ---
@@ -168,13 +222,15 @@ I also have experience in **graphic design, banking operations, and technical dr
 
 <p align="center">
 
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+connect+and+build+something+amazing!+%F0%9F%9A%80;Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing+%F0%9F%8C%B8"
-  alt="Animated Footer"
-/>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+connect+and+build+something+amazing!+%F0%9F%9A%80;Code+%7C+Create+%7C+Learn+%7C+Grow+%F0%9F%92%97"
+    alt="Animated Footer"
+  />
 
 </p>
 
 <p align="center">
+
   ⭐ <b>Thanks for visiting my GitHub profile!</b> ⭐
+
 </p>
