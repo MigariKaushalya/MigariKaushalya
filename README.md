@@ -5,7 +5,7 @@
 </h3>
 <p align="center">
 
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 
 </p>  
 
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+  <img src="https://komarev.com/ghpvc/?username=ruchikaupuldeniya&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -91,4 +91,5 @@ I also have experience in **graphic design, banking operations, and technical dr
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchikaupuldeniya&layout=compac
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchikaupuldeniya&layout=compact" />
+</p>
