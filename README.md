@@ -6,10 +6,9 @@
 
 <p align="center">
   <img 
-    src="https://miro.medium.com/v2/resize%3Afit%3A1400/1%2ATfZ2gjvFjZ6LYXKce-tfWQ.png"
-    width="520"
-    alt="Female Software Developer"
-    style="border-radius: 20px;"
+    src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/gifs/work.gif"
+    width="550"
+    alt="Girl Developer Coding"
   />
 </p>
 
@@ -22,7 +21,7 @@
 
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=ruchikaupuldeniya&label=Profile+Views&color=F72585&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=MigariKaushalya&label=Profile+Views&color=F72585&style=for-the-badge"
     alt="Profile Views"
   />
 </p>
@@ -43,7 +42,7 @@ I also have experience in **graphic design, banking operations, and technical dr
 
 ---
 
-### 💻 What I'm Doing
+## 💻 What I'm Doing
 
 - 🔭 Currently working on **Python, Java & Data Analysis projects**
 - 🌱 Currently learning **Data Science, Machine Learning & Web Development**
@@ -131,7 +130,7 @@ I also have experience in **graphic design, banking operations, and technical dr
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ruchikaupuldeniya&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=MigariKaushalya&show_icons=true&theme=tokyonight&hide_border=true"
     width="480"
     alt="GitHub Stats"
   />
@@ -139,7 +138,7 @@ I also have experience in **graphic design, banking operations, and technical dr
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ruchikaupuldeniya&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MigariKaushalya&theme=tokyonight&hide_border=true"
     width="480"
     alt="GitHub Streak"
   />
@@ -147,7 +146,7 @@ I also have experience in **graphic design, banking operations, and technical dr
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchikaupuldeniya&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigariKaushalya&layout=compact&theme=tokyonight&hide_border=true"
     width="380"
     alt="Top Languages"
   />
@@ -168,8 +167,14 @@ I also have experience in **graphic design, banking operations, and technical dr
 ## 🚀 Let's Build Something Amazing!
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+connect+and+build+something+amazing!+%F0%9F%9A%80"
-    alt="Thanks for visiting"
-  />
+
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+connect+and+build+something+amazing!+%F0%9F%9A%80;Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing+%F0%9F%8C%B8"
+  alt="Animated Footer"
+/>
+
+</p>
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my GitHub profile!</b> ⭐
 </p>
