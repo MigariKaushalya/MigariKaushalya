@@ -5,7 +5,7 @@
 </h3>
 <p align="center">
 
-  <img src="./assets/giphy.gif" width="600" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600" />
 
 </p>  
 
@@ -22,10 +22,6 @@
 ---
 
 ## 🚀 About Me
-
-<p align="center">
-  <img src="./assets/girl-coding.svg" width="450" />
-</p>
 
 I am an **ICT Undergraduate at the University of Vavuniya, Sri Lanka**, passionate about building modern, efficient, and real-world software solutions.
 
@@ -95,5 +91,4 @@ I also have experience in **graphic design, banking operations, and technical dr
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchikaupuldeniya&layout=compact" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruchikaupuldeniya&layout=compac
